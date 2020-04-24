@@ -13,8 +13,8 @@ yarn-error.log
 /public/media/products/*
 /public/media/categories/*
 /public/assets/final
+/config/*
 !/config/database.example.php
 !/config/general.example.php
 !/config/services.example.php
-/config/*
 robots.txt
