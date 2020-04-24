@@ -1,0 +1,19 @@
+header.main-header{
+	padding: 20px 0;
+	text-align: center;
+	color: #4d4a4a;
+	border-bottom: 1px solid #eaeaea;
+	margin-bottom: 25px;
+	position: relative;
+	
+	h1.title{
+		a{
+			color: #4d4a4a;
+			font-size: 60px;
+			
+			&:hover{
+				text-decoration: none;
+			}
+		}
+	}
+}

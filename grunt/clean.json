@@ -1,0 +1,16 @@
+{
+  "js_all": [
+    "public/assets/js/concatenated/**/*",
+	"public/assets/js/dependencies/**/*"
+  ],
+  
+  "js_concats": [
+    "public/assets/js/concatenated/vendor_temp.js",
+	"public/assets/js/concatenated/main_temp.js"
+  ],
+  
+  "css_all": [
+    "public/assets/css/concatenated/**/*",
+	"public/assets/css/dependencies/**/*"
+  ]
+}

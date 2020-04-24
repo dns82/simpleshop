@@ -1,0 +1,13 @@
+{
+  "httpPath": "/",
+  "imagesDir": "./public/assets/images",
+  "javascriptsDir": "./public/assets/js",
+  "sassDir": "./public/assets/scss",
+  "cssDir": "./public/assets/css",
+  "outputStyle": "expanded",
+  "environment": "development",
+  "relativeAssets": true,
+  "force": true,
+  "cacheDir": "./runtime/sass-cache",
+  "raw": "disable_warnings = true;"
+}
