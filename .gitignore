@@ -10,8 +10,6 @@ yarn-error.log
 /runtime
 /public/assets/css/*
 /public/assets/js/dependencies
-/public/media/products/*
-/public/media/categories/*
 /public/assets/final
 /config/*
 !/config/database.example.php
